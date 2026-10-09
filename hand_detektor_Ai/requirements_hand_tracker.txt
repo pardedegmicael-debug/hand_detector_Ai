@@ -1,0 +1,5 @@
+opencv-contrib-python<4.12
+mediapipe==0.10.21
+numpy<2
+pygame>=2.6.1
+pyvirtualcam>=0.14.1
